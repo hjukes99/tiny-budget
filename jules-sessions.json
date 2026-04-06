@@ -1,0 +1,12 @@
+{
+  "appName": "tiny-budget",
+  "repo": "hjukes99/tiny-budget",
+  "sessions": [
+    {
+      "id": "16266161360752278605",
+      "createdAt": "2026-04-06T08:05:00Z",
+      "status": "Planning",
+      "prompt": "Codex Lab: Tiny Budget — implement the top 3 TODO items from TODO.md."
+    }
+  ]
+}
